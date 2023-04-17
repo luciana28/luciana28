@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
     <h1 align=" center">Hola 👋 soy Luciana </h1>
-    <h3 align="center">Una apasionada por el Desarrollo Web- Front-End. Me gusta enseñar lo que adquirido en mis años de estudio.
+    <h3 align="center">Una apasionada por el Desarrollo Web "Front-End". Me gusta enseñar lo que adquirido en mis años de estudio.
     Actualmente soy docente en el Instituto Superior Modelo Palpalá.</h3>
 </div>
 
