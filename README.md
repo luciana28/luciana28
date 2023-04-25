@@ -8,7 +8,7 @@
 ---
     ### 👩🏻‍💻Sobre Mí:
     ▫️🔭 Actualmente estoy trabajando en el Instituto Superior Modelo Palpalá, como docente en Programación I.
-    ▫️🌱 Actualmente estoy aprendiendo  Booststrap, PHP, React, SQL. 
+    ▫️🌱 Estoy aprendiendo  Booststrap, PHP, React, SQL. 
     ▫️📫 Cómo llegar a mí:  lucianavargs28@gmail.com
     ▫️😄 Pronombres: Lu
 
